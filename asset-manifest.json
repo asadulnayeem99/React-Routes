@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//asadulnayeem99.github.io/React-Routes/static/css/main.3ea3effd.css",
+    "main.js": "//asadulnayeem99.github.io/React-Routes/static/js/main.1449b481.js",
+    "static/js/787.4be68915.chunk.js": "//asadulnayeem99.github.io/React-Routes/static/js/787.4be68915.chunk.js",
+    "static/media/logo.png": "//asadulnayeem99.github.io/React-Routes/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "//asadulnayeem99.github.io/React-Routes/index.html",
+    "main.3ea3effd.css.map": "//asadulnayeem99.github.io/React-Routes/static/css/main.3ea3effd.css.map",
+    "main.1449b481.js.map": "//asadulnayeem99.github.io/React-Routes/static/js/main.1449b481.js.map",
+    "787.4be68915.chunk.js.map": "//asadulnayeem99.github.io/React-Routes/static/js/787.4be68915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea3effd.css",
+    "static/js/main.1449b481.js"
+  ]
+}
